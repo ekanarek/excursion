@@ -4,6 +4,11 @@ body {
     text-align: center;
 }
 
+p {
+    font-size: 21px;
+    color: gray; 
+}
+
 header {
     font-size: 50px;
     font-weight: normal;
@@ -21,4 +26,15 @@ header {
 
 #video {
     margin-top: 20px;
+}
+
+.subhead p {
+    font-weight: 300;
+    font-size: 42px;
+    color: white; 
+}
+
+footer p {
+    text-align: right;
+    color: gray; 
 }
